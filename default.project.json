@@ -1,0 +1,15 @@
+{
+    "name": "Construct 2",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$path": "scripts/shared"
+        },
+        "ServerScriptService": {
+            "$path": "scripts/server"
+        },
+        "StarterGui": {
+            "$path": "scripts/client"
+        }
+    }
+}
